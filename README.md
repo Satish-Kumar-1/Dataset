@@ -1,1 +1,1 @@
-# This contains dataset folders for different projects.
+# This repo contains dataset folders for different projects.
